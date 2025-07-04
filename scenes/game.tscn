@@ -80,19 +80,6 @@ position = Vector2(270.5, 970)
 shape = SubResource("RectangleShape2D_lbhrr")
 debug_color = Color(0.749489, 0, 0.13266, 0.42)
 
-[node name="Ball" parent="." instance=ExtResource("3_lnu2h")]
-position = Vector2(270, 850)
-collision_layer = 2
-collision_mask = 29
-
-[node name="Tutorial" type="Label" parent="."]
-offset_right = 540.0
-offset_bottom = 962.0
-text = "Press \"Space\" to start"
-label_settings = SubResource("LabelSettings_p57ef")
-horizontal_alignment = 1
-vertical_alignment = 1
-
 [node name="Positions" type="Node2D" parent="."]
 
 [node name="Pos_01" type="Marker2D" parent="Positions"]
@@ -106,6 +93,19 @@ position = Vector2(638, 24)
 
 [node name="Pos_04" type="Marker2D" parent="Positions"]
 position = Vector2(642, 330)
+
+[node name="Ball" parent="." instance=ExtResource("3_lnu2h")]
+position = Vector2(270, 850)
+collision_layer = 2
+collision_mask = 29
+
+[node name="Tutorial" type="Label" parent="."]
+offset_right = 540.0
+offset_bottom = 962.0
+text = "Press \"Space\" to start"
+label_settings = SubResource("LabelSettings_p57ef")
+horizontal_alignment = 1
+vertical_alignment = 1
 
 [node name="TimerSpawner" type="Timer" parent="."]
 wait_time = 3.0
