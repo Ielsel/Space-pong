@@ -46,10 +46,10 @@ Space Pong é uma versão temática de espaço do tradicional jogo Pong. Nele, o
 
 ```
 Space-pong/
-├── scenes/               # Cenas principais do jogo
+├── scenes/              # Cenas principais do jogo
 ├── scripts/             # Scripts GDScript
 ├── sprites/             # Imagens e animações
-├── fonts/                # Fontes de texto
+├── fonts/               # Fontes de texto
 └── project.godot        # Arquivo de configuração do Godot
 ```
 
