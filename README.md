@@ -55,12 +55,8 @@ Space-pong/
 
 ## ✨ Funcionalidades
 
-- Modo multiplayer local (2 jogadores)
-
 - Asteroides dinâmicos que afetam o gameplay
 
 - Sistema de pontuação
 
-- Música e efeitos sonoros retrô
-
-- Transições suaves entre cenas
+- Transições de cenas
