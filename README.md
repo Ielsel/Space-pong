@@ -14,9 +14,12 @@ Space Pong é uma versão temática de espaço do tradicional jogo Pong. Nele, o
 
 ## 📸 Imagens
 
-![Screenshot 1](https://raw.githubusercontent.com/Ielsel/Space-pong/main/imagens_telas/img1.png)
-![Screenshot 2](https://raw.githubusercontent.com/Ielsel/Space-pong/main/imagens_telas/img2.png)
-![Screenshot 2](https://raw.githubusercontent.com/Ielsel/Space-pong/main/imagens_telas/img3.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ielsel/Space-pong/main/imagens_telas/img1.png" width="300" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/Ielsel/Space-pong/main/imagens_telas/img2.png" width="300" style="margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/Ielsel/Space-pong/main/imagens_telas/img3.png" width="300"/>
+</p>
+
 
 ## 🎮 Controles
 
